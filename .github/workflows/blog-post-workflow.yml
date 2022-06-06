@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: LeData/blog-post-workflows@master
         with:
-          feed_list: "https://medium.com/feed/@LeData"
+          feed_list: "https://medium.com/feed/@ledata"
           max_post_count: 10
