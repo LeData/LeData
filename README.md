@@ -38,6 +38,7 @@ This requires, in order of importance, active listing, solution design, engineer
 
 ```yaml
     past lives: Mathematician / Physicist
+    fun fact: the picture above is a mathematics inspired NFT
     ------------------------------------------
     Help needed: My First Step to Higher Ground project
     Looking to collaborate on: ML analysis of Graphical Novels
@@ -52,7 +53,11 @@ This requires, in order of importance, active listing, solution design, engineer
       - Category Theory for Programmers (V.Panaretos)
       - Towards a Code of Ethics for Artificial Intelligence (P.Boddington)
 ```
+
 ### Articles
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
