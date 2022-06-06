@@ -53,8 +53,9 @@ This requires, in order of importance, active listing, solution design, engineer
       - Category Theory for Programmers (V.Panaretos)
       - Towards a Code of Ethics for Artificial Intelligence (P.Boddington)
 ```
-
-### Articles
+<p align="center">
+I also like to write articles on subjects I enjoy, relative to Machine Learning and mathematics.
+</p>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
