@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: LeData/blog-post-workflows@main
+        uses: LeData/blog-post-workflow@main
         with:
           feed_list: "https://medium.com/feed/@ledata"
           max_post_count: 10
