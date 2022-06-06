@@ -9,9 +9,8 @@
 </p>
 <figure align="center">
     <img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png"/>
-    <figcaption>Twin fish tails from 2D morse theory (<a href="https://medium.com/@ledata/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3">article</a>)</figcaption>
 </figure>
-<h2 align="center">This is not a donut</h2>
+<h2 align="center">This is not a donut (<a href="https://medium.com/@ledata/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3">but its shadow</a>)</h2>
 <p align="center">
     <img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">
     <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white"></a>
