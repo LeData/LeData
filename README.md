@@ -1,16 +1,67 @@
-### Hi there 👋
+
+<p align="center">
+    <a href="https://github.com/LeData" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@LeData-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://medium.com/@ledata" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium"></a>
+    <!--<a href="mailto:d.majard@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/-d.majard-darkred?style=flat&logo=gmail"></a>-->
+    <a href="https://www.linkedin.com/in/dany-majard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.researchgate.net/scientific-contributions/Dany-Majard-59374435" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"></a>
+    <br>
+    <img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png">
+</p>
+
+<p align="center">
+    <!--<img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">-->
+    <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/ledata?tab=repositories&language=javascript" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/ledata?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://openprocessing.org/user/269383/?view=activity&o=1"><img src="https://img.shields.io/badge/-processing-006699?style=flat&logo=ProcessingFoundation"></a>
+    <img alt="tools" src="https://img.shields.io/badge/LANGUAGES /-/ TOOLS-000000?style=flat-square">
+    <!--<img alt="tools" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">-->
+    <img src="https://img.shields.io/badge/-DataSpell-brown?style=flat&logo=IntellijIDEA">
+    <a href="" target="_blank"><img alt="python" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/-Dataiku-darkblue?style=flat&logo=Dataiku">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS">
+    <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=Jira">
+    <img src="https://img.shields.io/badge/-Ubuntu-0052CC?style=flat&logo=Ubuntu">
+</p>
+
+```yaml
+    I'm Dany Majard, a.k.a. **LeData**, a mathematician/physicist working in Tech.
+    ------------------------------------------
+    Help needed: My First Step to Higher Ground project
+    Looking to collaborate on: ML analysis of Graphical Novels
+    Current reads:
+      - Probabilistic Graphical Models (Koller & Friedman)
+      - Information Theory, Inference and Learning Algorithms (MacKay)
+      - Hands On Quantum Machine Learning with Python (F.Zikert)
+      - A Graphical Guide to Linguistics
+      - A Graphical Guide to Logic
+    Past Reads:
+      - Statistics for Mathematicians (B.Milewski)
+      - Category Theory for Programmers (V.Panaretos)
+      - Towards a Code of Ethics for Artificial Intelligence (P.Boddington)
+```
+### Articles
+
 
 <!--
-**LeData/LeData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<details>
+<summary>Click for more GitHub Stats</summary>
+
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ledata&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=material-palenight&card_width=450">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledata&count_private=true&layout=compact&hide=html,CSS,jupyter%20notebook,&hide_border=true&theme=material-palenight&card_width=450">
+    <br>
+    <a src="https://skyline.github.com/LEData/2021?annotation0=2021-10-02,2021-10-02,Started%20to%20work%20at%20StreetBees.&annotation1=2021-06-24,2021-06-24,Announced%20my%20leaving%20Outra.%20Preparing%20handover."><img alt="Github Skyline" src="https://skyline.github.com/LeData/2021.png" width="500"></a>
+    <!--<br>
+    <a src="https://github.com/ryo-ma/github-profile-trophy"><img alt=trophy src="https://github-profile-trophy.vercel.app/?username=LeData"></a>-->
+</p>
+</details>
+
+<p align="center">
+    <!--<a href="https://github.com/ledata?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>-->
+    <!--<a href="https://github.com/ledata" target="_blank"><img alt="ledata" src="https://badges.pufler.dev/visits/ledata/ledata?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <a href="https://github.com/ledata/ledata" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ledata/ledata?label=profile%20updated&style=flat-square"></a>
+</p>
