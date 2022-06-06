@@ -10,13 +10,16 @@
 </p>
 
 <p align="center">
-    <!--<img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">-->
+    <img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">
     <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/ledata?tab=repositories&language=javascript" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
     <a href="https://github.com/ledata?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a href="https://openprocessing.org/user/269383/?view=activity&o=1"><img src="https://img.shields.io/badge/-processing-006699?style=flat&logo=ProcessingFoundation"></a>
-    <img alt="tools" src="https://img.shields.io/badge/LANGUAGES /-/ TOOLS-000000?style=flat-square">
-    <!--<img alt="tools" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">-->
+    <!--<img alt="tools" src="https://img.shields.io/badge/LANGUAGES /-/ TOOLS-000000?style=flat-square">-->
+</p>
+
+<p align="center">
+    <img alt="tools" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
     <img src="https://img.shields.io/badge/-DataSpell-brown?style=flat&logo=IntellijIDEA">
     <a href="" target="_blank"><img alt="python" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
     <img src="https://img.shields.io/badge/-Dataiku-darkblue?style=flat&logo=Dataiku">
