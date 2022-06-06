@@ -68,7 +68,16 @@ This requires, in order of importance, active listing, solution design, engineer
 I also like to write articles on subjects I enjoy, relative to Machine Learning and mathematics.
 </p>
 <!-- BLOG-POST-LIST:START -->
-
+- [Painting non-orientable surfaces // Part 1](https://ledata.medium.com/painting-non-orientable-surfaces-part-1-a5d0f6e1f05?source=rss-ae4189ae1a23------2)
+- [A wise AI should say “I don’t know”](https://ledata.medium.com/a-wise-ai-should-say-i-dont-know-b878c3d57d44?source=rss-ae4189ae1a23------2)
+- [Musings on Data Ethics](https://medium.com/the-structured-scientist/musings-on-data-ethics-42ff9a96f66c?source=rss-ae4189ae1a23------2)
+- [Make set intersection great again with UpSetPlot](https://ledata.medium.com/make-set-intersection-great-again-with-upsetplot-89671a33492f?source=rss-ae4189ae1a23------2)
+- [Survival Analysis evaluation](https://ledata.medium.com/survival-analysis-evaluation-e28bdebc0c34?source=rss-ae4189ae1a23------2)
+- [Art with p5.js — Painting unorientable surfaces // Part0](https://ledata.medium.com/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3?source=rss-ae4189ae1a23------2)
+- [Primer on Bitcoin for Data Scientist — Part 1](https://medium.com/coinmonks/primer-on-bitcoin-for-data-scientist-part-1-e9a90ea5b536?source=rss-ae4189ae1a23------2)
+- [Win your colleagues over with Applications in Dataiku 8.0](https://towardsdatascience.com/win-your-colleagues-over-with-applications-in-dataiku-8-0-19ddd9d9754f?source=rss-ae4189ae1a23------2)
+- [Rethinking Autonomy — the Wandering Blob Experiment](https://ledata.medium.com/autonomy-the-wandering-blob-experiment-e6d523150b27?source=rss-ae4189ae1a23------2)
+- [What to do with Explainability?](https://medium.com/swlh/what-to-do-with-explainability-db430553caa?source=rss-ae4189ae1a23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
