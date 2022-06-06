@@ -6,27 +6,39 @@
     <a href="https://www.linkedin.com/in/dany-majard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
     <a href="https://github.com/LeData/LeData/blob/main/%5BD.Majard%5D_%5BData.Science%5D_%5BCV%5D_2pages.pdf" target="_blank"><img alt="Curriculum Vitae" src="https://img.shields.io/badge/-CV-EC1C24?style=flat&logo=AdobeAcrobatReader"></a> 
     <a href="https://www.researchgate.net/scientific-contributions/Dany-Majard-59374435" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"></a>
-    <br>
-    <a href="https://medium.com/@ledata/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3"><img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png"></a>
 </p>
+<figure align="center">
+    <img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png"/>
+    <figcaption>Twin fish tails from 2D morse theory (<a href="https://medium.com/@ledata/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3">article</a>)</figcaption>
+</figure>
 <h2 align="center">This is not a donut</h2>
 <p align="center">
     <img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">
-    <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat&logo=Python&logoColor=white"></a>
     <a href="https://github.com/ledata?tab=repositories&language=javascript" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/ledata?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/ledata?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white"></a>
     <a href="https://openprocessing.org/user/269383/?view=activity&o=1"><img src="https://img.shields.io/badge/-processing-006699?style=flat&logo=ProcessingFoundation"></a>
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-4169E1?style=flat&logo=PostgreSQL&logoColor=black">
     <!--<img alt="tools" src="https://img.shields.io/badge/LANGUAGES /-/ TOOLS-000000?style=flat-square">-->
 </p>
 
 <p align="center">
     <img alt="tools" src="https://img.shields.io/badge/-tools-000000?style=flat-square&logo=Plex&logoColor=white">
-    <img src="https://img.shields.io/badge/-DataSpell-brown?style=flat&logo=IntellijIDEA">
-    <a href="" target="_blank"><img alt="python" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/-Dataiku-darkblue?style=flat&logo=Dataiku">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS">
-    <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=Jira">
     <img src="https://img.shields.io/badge/-Ubuntu-0052CC?style=flat&logo=Ubuntu">
+    <img src="https://img.shields.io/badge/-PyCharm-brown?style=flat&logo=PyCharm">
+    <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+    <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-232F3E?style=flat&logo=PyTorch">
+    <img alt="spark" src="https://img.shields.io/badge/-PySpark-232F3E?style=flat&logo=ApacheSpark">
+    <img alt="neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=black">
+    <img alt="qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=Qiskit">
+    <img alt="deck.gl" src="https://img.shields.io/badge/-deck.gl-000000?style=flat&logo=Uber">
+</p>
+
+<p align="center">
+    <img alt="platforms" src="https://img.shields.io/badge/-platforms-000000?style=flat-square&logo=Plex&logoColor=white">
+    <img src="https://img.shields.io/badge/-Dataiku-darkblue?style=flat&logo=Dataiku">
+    <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=Jira">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS">
 </p>
 
 <p align="center"> I am a Data / Applied Scientist attempting to bring holistic and thorough approaches to the problems faced by companies.
