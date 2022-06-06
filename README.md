@@ -67,12 +67,11 @@ This requires, in order of importance, active listing, solution design, engineer
 <p align="center">
 I also like to write articles on subjects I enjoy, relative to Machine Learning and mathematics.
 </p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-<!--
--->
 <details>
 <summary>Click for more GitHub Stats</summary>
 
