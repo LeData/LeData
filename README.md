@@ -1,4 +1,4 @@
-
+<h1 align="center">Welcome to my page!</h1>
 <p align="center">
     <a href="https://github.com/LeData" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@LeData-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://medium.com/@ledata" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium"></a>
@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/dany-majard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/scientific-contributions/Dany-Majard-59374435" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"></a>
     <br>
-    <img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png">
+    <a href="https://medium.com/@ledata/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3"><img src="https://miro.medium.com/max/1230/1*IHaxXK0Utqbv6V0SvySusQ.png"></a>
 </p>
-
+<h2 align="center">This is not a donut.</h2>
 <p align="center">
     <img alt="Lang" src="https://img.shields.io/badge/-languages-000000?style=flat-square&logo=Plex&logoColor=white">
     <a href="https://github.com/ledata?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
@@ -29,7 +29,7 @@
 </p>
 
 ```yaml
-    I'm Dany Majard, a.k.a. **LeData**, a mathematician/physicist working in Tech.
+    past lives: Mathematician / Physicist
     ------------------------------------------
     Help needed: My First Step to Higher Ground project
     Looking to collaborate on: ML analysis of Graphical Novels
