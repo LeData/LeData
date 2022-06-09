@@ -4,7 +4,7 @@
     <a href="https://medium.com/@ledata" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-blueviolet?style=flat&logo=medium"></a>
     <!--<a href="mailto:d.majard@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/-d.majard-darkred?style=flat&logo=gmail"></a>-->
     <a href="https://www.linkedin.com/in/dany-majard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-    <a href="https://github.com/LeData/LeData/blob/main/%5BD.Majard%5D_%5BData.Science%5D_%5BCV%5D_2pages.pdf" target="_blank"><img alt="Curriculum Vitae" src="https://img.shields.io/badge/-CV-EC1C24?style=flat&logo=AdobeAcrobatReader"></a> 
+    <a href="https://github.com/LeData/LeData/blob/main/%5BD.Majard%5D_%5BData.Science%5D_%5BCV%5D_compact.pdf" target="_blank"><img alt="Curriculum Vitae" src="https://img.shields.io/badge/-CV-EC1C24?style=flat&logo=AdobeAcrobatReader"></a> 
     <a href="https://www.researchgate.net/scientific-contributions/Dany-Majard-59374435" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"></a>
 </p>
 <figure align="center">
