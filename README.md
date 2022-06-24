@@ -70,6 +70,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Remarks on “Hands on Quantum ML with Python vol1”](https://ledata.medium.com/remarks-on-hands-on-quantum-ml-with-python-vol1-325fb8ff17e6?source=rss-ae4189ae1a23------2)
 - [Painting non-orientable surfaces // Part 1](https://ledata.medium.com/painting-non-orientable-surfaces-part-1-a5d0f6e1f05?source=rss-ae4189ae1a23------2)
 - [A wise AI should say “I don’t know”](https://ledata.medium.com/a-wise-ai-should-say-i-dont-know-b878c3d57d44?source=rss-ae4189ae1a23------2)
 - [Musings on Data Ethics](https://medium.com/the-structured-scientist/musings-on-data-ethics-42ff9a96f66c?source=rss-ae4189ae1a23------2)
@@ -79,7 +80,6 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 - [Primer on Bitcoin for Data Scientist — Part 1](https://medium.com/coinmonks/primer-on-bitcoin-for-data-scientist-part-1-e9a90ea5b536?source=rss-ae4189ae1a23------2)
 - [Win your colleagues over with Applications in Dataiku 8.0](https://towardsdatascience.com/win-your-colleagues-over-with-applications-in-dataiku-8-0-19ddd9d9754f?source=rss-ae4189ae1a23------2)
 - [Rethinking Autonomy — the Wandering Blob Experiment](https://ledata.medium.com/autonomy-the-wandering-blob-experiment-e6d523150b27?source=rss-ae4189ae1a23------2)
-- [What to do with Explainability?](https://medium.com/swlh/what-to-do-with-explainability-db430553caa?source=rss-ae4189ae1a23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
