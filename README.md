@@ -70,6 +70,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you program “incels” with python?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
 - [Understanding bitcoin through direct analysis of the ledger — part 2](https://ledata.medium.com/understanding-bitcoin-through-direct-analysis-of-the-ledger-part-2-99a5652483dc?source=rss-ae4189ae1a23------2)
 - [Stop using Folium for your mapping needs](https://ledata.medium.com/stop-using-folium-for-your-mapping-needs-d76d2a89c198?source=rss-ae4189ae1a23------2)
 - [Remarks on “Hands on Quantum ML with Python vol1”](https://ledata.medium.com/remarks-on-hands-on-quantum-ml-with-python-vol1-325fb8ff17e6?source=rss-ae4189ae1a23------2)
@@ -79,7 +80,6 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 - [Make set intersection great again with UpSetPlot](https://ledata.medium.com/make-set-intersection-great-again-with-upsetplot-89671a33492f?source=rss-ae4189ae1a23------2)
 - [Survival Analysis evaluation](https://ledata.medium.com/survival-analysis-evaluation-e28bdebc0c34?source=rss-ae4189ae1a23------2)
 - [Art with p5.js — Painting unorientable surfaces // Part0](https://ledata.medium.com/art-with-p5-js-painting-unorientable-surfaces-part0-c683ff2d9dc3?source=rss-ae4189ae1a23------2)
-- [Primer on Bitcoin for Data Scientist — Part 1](https://medium.com/coinmonks/primer-on-bitcoin-for-data-scientist-part-1-e9a90ea5b536?source=rss-ae4189ae1a23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
