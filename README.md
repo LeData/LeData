@@ -70,7 +70,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you program “incels” with python?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
+- [What can Agent Based Modeling say about “incels”?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
 - [Understanding bitcoin through direct analysis of the ledger — part 2](https://ledata.medium.com/understanding-bitcoin-through-direct-analysis-of-the-ledger-part-2-99a5652483dc?source=rss-ae4189ae1a23------2)
 - [Stop using Folium for your mapping needs](https://ledata.medium.com/stop-using-folium-for-your-mapping-needs-d76d2a89c198?source=rss-ae4189ae1a23------2)
 - [Remarks on “Hands on Quantum ML with Python vol1”](https://ledata.medium.com/remarks-on-hands-on-quantum-ml-with-python-vol1-325fb8ff17e6?source=rss-ae4189ae1a23------2)
