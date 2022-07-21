@@ -72,7 +72,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 <!-- BLOG-POST-LIST:START -->
 - [What can Agent Based Modeling say about “incels”?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
 - [Understanding bitcoin through direct analysis of the ledger — part 2](https://medium.com/coinmonks/understanding-bitcoin-through-direct-analysis-of-the-ledger-part-2-99a5652483dc?source=rss-ae4189ae1a23------2)
-- [Stop using Folium for your mapping needs](https://towardsdatascience.com/stop-using-folium-for-your-mapping-needs-d76d2a89c198?source=rss-ae4189ae1a23------2)
+- [Stop using Folium for your mapping needs](https://ledata.medium.com/stop-using-folium-for-your-mapping-needs-d76d2a89c198?source=rss-ae4189ae1a23------2)
 - [Remarks on “Hands on Quantum ML with Python vol1”](https://ledata.medium.com/remarks-on-hands-on-quantum-ml-with-python-vol1-325fb8ff17e6?source=rss-ae4189ae1a23------2)
 - [Painting non-orientable surfaces // Part 1](https://ledata.medium.com/painting-non-orientable-surfaces-part-1-a5d0f6e1f05?source=rss-ae4189ae1a23------2)
 - [A wise AI should say “I don’t know”](https://ledata.medium.com/a-wise-ai-should-say-i-dont-know-b878c3d57d44?source=rss-ae4189ae1a23------2)
