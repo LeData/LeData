@@ -70,7 +70,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, you can! Pull Requests on Jupyter Notebooks](https://ledata.medium.com/yes-you-can-pull-requests-on-jupyter-notebooks-535b5fc7738?source=rss-ae4189ae1a23------2)
+- [Yes, you can! Pull Requests on Jupyter Notebooks](https://medium.com/swlh/yes-you-can-pull-requests-on-jupyter-notebooks-535b5fc7738?source=rss-ae4189ae1a23------2)
 - [What can Agent Based Modeling say about “incels”?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
 - [Understanding bitcoin through direct analysis of the ledger — part 2](https://medium.com/coinmonks/understanding-bitcoin-through-direct-analysis-of-the-ledger-part-2-99a5652483dc?source=rss-ae4189ae1a23------2)
 - [Stop using Folium for your mapping needs](https://medium.com/swlh/stop-using-folium-for-your-mapping-needs-d76d2a89c198?source=rss-ae4189ae1a23------2)
