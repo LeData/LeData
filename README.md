@@ -57,6 +57,7 @@ This requires, in order of importance, active listing, solution design, engineer
     Current reads:
       - Probabilistic Graphical Models (Koller & Friedman)
       - Information Theory, Inference and Learning Algorithms (MacKay)
+      - Geometric Deep Learning (M.Bronstein)
     Past Reads:
       - Statistics for Mathematicians (B.Milewski)
       - Hands On Quantum Machine Learning with Python (F.Zikert)
