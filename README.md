@@ -71,6 +71,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter IS excel 2.0](https://ledata.medium.com/jupyter-is-excel-2-0-79beac700ed7?source=rss-ae4189ae1a23------2)
 - [Solved: Jupyter nightmare on Git](https://medium.com/swlh/yes-you-can-pull-requests-on-jupyter-notebooks-535b5fc7738?source=rss-ae4189ae1a23------2)
 - [What can Agent Based Modeling say about “incels”?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
 - [Understanding bitcoin through direct analysis of the ledger — part 2](https://medium.com/coinmonks/understanding-bitcoin-through-direct-analysis-of-the-ledger-part-2-99a5652483dc?source=rss-ae4189ae1a23------2)
@@ -80,7 +81,6 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 - [A wise AI should say “I don’t know”](https://ledata.medium.com/a-wise-ai-should-say-i-dont-know-b878c3d57d44?source=rss-ae4189ae1a23------2)
 - [Musings on Data Ethics](https://medium.com/the-structured-scientist/musings-on-data-ethics-42ff9a96f66c?source=rss-ae4189ae1a23------2)
 - [Make set intersection great again with UpSetPlot](https://ledata.medium.com/make-set-intersection-great-again-with-upsetplot-89671a33492f?source=rss-ae4189ae1a23------2)
-- [Survival Analysis evaluation](https://ledata.medium.com/survival-analysis-evaluation-e28bdebc0c34?source=rss-ae4189ae1a23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
