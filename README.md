@@ -71,6 +71,7 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [I miserably failed a behavioral interview](https://ledata.medium.com/i-miserably-failed-a-behavioral-interview-ddef8249a238?source=rss-ae4189ae1a23------2)
 - [5 tips to take the Data Science training wheels off](https://ledata.medium.com/jupyter-is-excel-2-0-79beac700ed7?source=rss-ae4189ae1a23------2)
 - [Solved: Jupyter nightmare on Git](https://medium.com/swlh/yes-you-can-pull-requests-on-jupyter-notebooks-535b5fc7738?source=rss-ae4189ae1a23------2)
 - [What can Agent Based Modeling say about “incels”?](https://ledata.medium.com/can-you-program-incels-with-python-9d05a9fefec6?source=rss-ae4189ae1a23------2)
@@ -80,7 +81,6 @@ I also like to write articles on subjects I enjoy, relative to Machine Learning 
 - [Painting non-orientable surfaces // Part 1](https://ledata.medium.com/painting-non-orientable-surfaces-part-1-a5d0f6e1f05?source=rss-ae4189ae1a23------2)
 - [A wise AI should say “I don’t know”](https://ledata.medium.com/a-wise-ai-should-say-i-dont-know-b878c3d57d44?source=rss-ae4189ae1a23------2)
 - [Musings on Data Ethics](https://medium.com/the-structured-scientist/musings-on-data-ethics-42ff9a96f66c?source=rss-ae4189ae1a23------2)
-- [Make set intersection great again with UpSetPlot](https://ledata.medium.com/make-set-intersection-great-again-with-upsetplot-89671a33492f?source=rss-ae4189ae1a23------2)
 <!-- BLOG-POST-LIST:END -->
 
 
