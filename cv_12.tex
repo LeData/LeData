@@ -72,9 +72,11 @@ Python \textbullet{} Spark \textbullet{} SQL \textbullet{} Snowflake \textbullet
 PostGIS  \textbullet{} BigQuery \textbullet{} Gremlin \textbullet{}
 Processing \textbullet{} Assembly \textbullet{} Javascript \textbullet{} \LaTeX\\
 \location{Machine Learning :}
+LLM classification \& critic patterns \textbullet{}
+PyTorch \textbullet{} HuggingFace \textbullet{}
 LGBM, XGBOOST, CATBOOST \textbullet{} sklearn \textbullet{}
 hydra+Optuna \textbullet{}
-PyTorch \textbullet{} PySurvival \textbullet{} ARIMA \textbullet{} Contextual Multi-Arm Bandit  \\
+PySurvival \textbullet{} ARIMA \textbullet{} Contextual Multi-Arm Bandit  \\
 \location{NLP:}
 nltk \textbullet{} spaCy \textbullet{} HuggingFace \textbullet{} PyTorch\\
 \location{Visualization :}
@@ -82,7 +84,7 @@ Explainability (PDP, SHAP, LIME) \textbullet{}\\
 Geospatial (H3, deck.gl, QGis) \textbullet{} \\
 Plotting (seaborn, plotly, bokeh, UpSet, p5.js)\\
 \location{Ops :}
-hydra, dataiku, AWS, JanusGraph 
+GCP \textbullet{} AWS \textbullet{} hydra \textbullet{} dataiku \textbullet{} JanusGraph
 
 \sectionspace % Some whitespace after the section
 
@@ -144,13 +146,16 @@ Medium:// \href{https://medium.com/@LeData}{\bf LeData}
 \runsubsection{Lead ML/AI/Knowledge Engineer}
 \descript{Sept'22 - Present}
 \location{CUBE | RegTech | London, UK}
-Led a full-stack team of 3-5 engineers \& researchers with custom ML Shape Up.
+Lead 6 research/ML/MLOps engineers on custom ML Shape Up while staying hands-on. Only team on GCP: we own the whole stack bar networking and IAM.
 \vspace{\topsep}
 \begin{tightitemize}
-\item Own the ML behind global horizon scanning: per-customer content filtering over 5-10k regulatory documents/hour, supranational to county level, deployed across the regulatory change units of tier-1 global banks.
+\item Own the ML behind global horizon scanning: per-customer content filtering over 5-10k regulatory documents/hour, supranational to county level, in production for tier-1 global banks on multi-million enterprise contracts.
 \item Cold-start each customer model on 200 feedback items and scale it past 100k over 3 years, tuned on both sides: suppress noise from a >4k-concept taxonomy and surface relevant documents outside the customer profile.
-\item Full model-per-customer lifecycle with monitoring, alerting and SRE, in a domain where missed regulatory change is remediated by hundreds of contract lawyers.
+\item Run >50 per-customer continuous training and delivery pipelines. Per-class ROC-AUC above 0.9 where feedback is dense, degrading toward chance where it is sparse -- a supervision-density limit, not a modelling one.
+\item Shipped two LLM systems: a Financial Services classifier cutting noise for banking customers, and an LLM critic over the taxonomy classifier to suppress false positives.
+\item Stood up offline evaluation without online experimentation: a stratified benchmark accumulating the test set of every promoted model, plus simulation of the system's dynamic behaviour.
 \item Led research on ontology classification with active and efficient learning; ran a KG POC on company data across multiple graphDB vendors.
+\item Won CTO approval to re-organise AI/ML from a siloed function into embedded teams backed by an MLOps platform; built the skills taxonomy and matrix used to size the gap.
 \end{tightitemize}
 \sectionspace % Some whitespace after the section
 
@@ -171,7 +176,7 @@ Led the client delivery team, operated a major cultural shift towards product-ce
 
 \runsubsection{Lead Data Scientist}
 \descript{Oct'18 – Aug'21}
-\location{Outra | Real Estate / Construction / Martech| London, UK}
+\location{Outra | Real Estate / Construction / Martech | London, UK}
 
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightitemize}
@@ -185,27 +190,11 @@ Led the client delivery team, operated a major cultural shift towards product-ce
 
 %------------------------------------------------
 
-\runsubsection{Data Scientist}
-\descript{Aug'18}
-\location{Close Brothers | Banking | London, UK}
-Provided data science expertise as a service for an insurance broker client.
-\begin{tightitemize}
-\item Delivered churn models reducing costs of background checks by 30\%.
-\item Delivered propensity models for financing, increasing year 1 profits.
-
-\end{tightitemize}
-
-\sectionspace % Some whitespace after the section
-
-%------------------------------------------------
-
 \runsubsection{Head of Sales - Customer Relations}
 \descript{Nov'14 – Dec'16}
 \location{Festka | Cycling Manufacturing | Prague, CZ}
-Create worldwide distribution network and direct-to-customer sales funnel.
 \begin{tightitemize}
-\item Increased sales 5x and reduced delivery time by 30\%.
-\item Excelled in customer care, with a satisfaction rate superior to 98\%.
+\item Built a 24-partner global distribution network and a direct-to-customer funnel: 5x sales, 30\% faster delivery, >98\% satisfaction.
 \end{tightitemize}
 
 \sectionspace % Some whitespace after the section
@@ -228,16 +217,10 @@ Create worldwide distribution network and direct-to-customer sales funnel.
 
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightitemize}
-\item AI expert in a working group on the impact of autonomous systems on the State of Law to produce a report for the Ministry of Justice.
+\item AI expert on the impact of autonomous systems on the State of Law; report commissioned by the Ministry of Justice.
 \end{tightitemize}
 
 \sectionspace % Some whitespace after the section
-\runsubsection{Blockchain // Graphs}
-\descript{Jun'18-Oct'18}
-\location{Cryptocurrency analytics | Google, Remote}
-\begin{tightitemize}
-\item{Joint work with Allen Day, science advocate @Google. BTC and ETH ledger analysis for improved understanding of on-chain behaviors and dynamics.}
-\end{tightitemize}
 
 %----------------------------------------------------------------------------------------
 
